@@ -1,8 +1,8 @@
 <?php
   
 // Store the file name into variable
-$file = 'filename.pdf';
-$filename = 'filename.pdf';
+$file = 'cv_kouadio-franck-martial-koffi.pdf';
+$filename = 'cv_kouadio-franck-martial-koffi.pdf';
   
 // Header content type
 header('Content-type: application/pdf');
